@@ -1,0 +1,7 @@
+*.csproj
+UnityRealLifeMask.sln
+UnityRealLifeMask/obj
+UnityRealLifeMask/UserSettings
+UnityRealLifeMask/.idea
+packages-lock.json
+UnityRealLifeMask/Recordings
