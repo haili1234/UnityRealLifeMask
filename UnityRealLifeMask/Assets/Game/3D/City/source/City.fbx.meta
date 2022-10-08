@@ -1,0 +1,252 @@
+fileFormatVersion: 2
+guid: c4fd0536f0d346144b159b5bbfd3adb8
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2100000: Default
+    2100002: SWINDO2
+    2100004: SOLDCON
+    2100006: SWINDO1
+    2100008: SOUTBR3
+    2100010: SAQD9A1
+    2100012: SAQD9A3
+    2100014: SNEWB12
+    2100016: SAQD9A
+    2100018: SWWFLO4
+    2100020: SBBRIC1
+    2100022: SBUILD5
+    2100024: SBUIL2A
+    2100026: SGRASS2
+    2100028: SDRYWA1
+    2100030: SBRBOLT
+    2100032: SROAD1
+    2100034: SSHIT1
+    2100036: SBRBOL1
+    2100038: F_SKY1
+    2100040: SCEME4A
+    2100042: SROOFGR
+    2100044: SBBRIC2
+    2100046: SWHGRID
+    2100048: SBLACK
+    2100050: SWOODRO
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: MAP01
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default
+    second: {fileID: 2100000, guid: 1c144804c9f40b54fa41e379ef838c0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F_SKY1
+    second: {fileID: 2100000, guid: d4f10e5a3d9d6af438f871a0dcb4ac49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SAQD9A
+    second: {fileID: 2100000, guid: 15d505f9fa9ca494195e5b071dc2f187, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SAQD9A1
+    second: {fileID: 2100000, guid: 457f0dc81f5e8c5409adacb689167ea0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SAQD9A3
+    second: {fileID: 2100000, guid: b6d11627582b76a42a26fa7d6fa30f64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SBBRIC1
+    second: {fileID: 2100000, guid: 5956db88e456aff43bbfc272a8759e2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SBBRIC2
+    second: {fileID: 2100000, guid: 1e0746d43ba79cd43971e1a93c890b92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SBLACK
+    second: {fileID: 2100000, guid: 10cc3802cd7b11b47b8b55dd047a7ae3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SBRBOL1
+    second: {fileID: 2100000, guid: 210fad8ad9fe2d144bbe032cdf1d3517, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SBRBOLT
+    second: {fileID: 2100000, guid: e149ba2091bc64742a6c6f0e8893be1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SBUIL2A
+    second: {fileID: 2100000, guid: 49c64969dd7aac24bb2507ff39bc4482, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SBUILD5
+    second: {fileID: 2100000, guid: 074781895fd7eeb4683f967d930a1fdf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SCEME4A
+    second: {fileID: 2100000, guid: b8285a00265491842a76c94acbc24d4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SDRYWA1
+    second: {fileID: 2100000, guid: d66256d70dbf370449893f3ea9c24c57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SGRASS2
+    second: {fileID: 2100000, guid: 8cfa9469762819a4cb422a3153224a7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SNEWB12
+    second: {fileID: 2100000, guid: fbd3a56ee03fccf4183dfbc06106cf93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SOLDCON
+    second: {fileID: 2100000, guid: 47dacd543643261428776c34d234cf27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SOUTBR3
+    second: {fileID: 2100000, guid: 7d421b6ebb0ae1840bd08dedcac5b5fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SROAD1
+    second: {fileID: 2100000, guid: ac1e6db78de424f42932f1f90cac3a49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SROOFGR
+    second: {fileID: 2100000, guid: b34ba1ad5a44c754d89241440b385009, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SSHIT1
+    second: {fileID: 2100000, guid: 620b0fb6e1f42fb48a84f479ff0ad475, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SWHGRID
+    second: {fileID: 2100000, guid: 78f321a0878a6fe4c9b138571b922cd5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SWINDO1
+    second: {fileID: 2100000, guid: 0f6ea815756aada45aa90bbc81fbc691, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SWINDO2
+    second: {fileID: 2100000, guid: 173ae95dffbd9cb438116bc0d3f17af2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SWOODRO
+    second: {fileID: 2100000, guid: 9bb2cf5a092601a45bad9a1786fdc118, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SWWFLO4
+    second: {fileID: 2100000, guid: 38b20195e2c4a7f4393ad5ead67b2327, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
